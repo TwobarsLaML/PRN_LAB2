@@ -1,0 +1,100 @@
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\Service\bin\Debug\net8.0\Service.deps.json
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\Service\bin\Debug\net8.0\Service.dll
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\Service\bin\Debug\net8.0\Service.pdb
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\Service\bin\Debug\net8.0\BusinessObjects.dll
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\Service\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\Service\bin\Debug\net8.0\Repositories.dll
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\Service\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\Service\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\Service\bin\Debug\net8.0\Repositories.pdb
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\Service\obj\Debug\net8.0\Service.dll
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\Service\obj\Debug\net8.0\refint\Service.dll
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\Service\obj\Debug\net8.0\Service.pdb
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\Service\obj\Debug\net8.0\ref\Service.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\Service\bin\Debug\net8.0\Service.deps.json
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\Service\bin\Debug\net8.0\Service.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\Service\bin\Debug\net8.0\Service.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\Service\bin\Debug\net8.0\BusinessObjects.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\Service\bin\Debug\net8.0\DataAccessLayer.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\Service\bin\Debug\net8.0\Repositories.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\Service\bin\Debug\net8.0\BusinessObjects.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\Service\bin\Debug\net8.0\DataAccessLayer.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\Service\bin\Debug\net8.0\Repositories.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\Service\obj\Debug\net8.0\Service.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\Service\obj\Debug\net8.0\refint\Service.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\Service\obj\Debug\net8.0\Service.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\Service\obj\Debug\net8.0\ref\Service.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1\Service\bin\Debug\net8.0\Service.deps.json
+F:\TwoBars\eng\Programming\C#\prn212_lab1\Service\bin\Debug\net8.0\Service.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1\Service\bin\Debug\net8.0\Service.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab1\Service\bin\Debug\net8.0\BusinessObjects.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1\Service\bin\Debug\net8.0\DataAccessLayer.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1\Service\bin\Debug\net8.0\Repositories.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1\Service\bin\Debug\net8.0\BusinessObjects.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab1\Service\bin\Debug\net8.0\DataAccessLayer.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab1\Service\bin\Debug\net8.0\Repositories.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab1\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab1\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\TwoBars\eng\Programming\C#\prn212_lab1\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab1\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+F:\TwoBars\eng\Programming\C#\prn212_lab1\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab1\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+F:\TwoBars\eng\Programming\C#\prn212_lab1\Service\obj\Debug\net8.0\Service.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1\Service\obj\Debug\net8.0\refint\Service.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1\Service\obj\Debug\net8.0\Service.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab1\Service\obj\Debug\net8.0\ref\Service.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\Service\bin\Debug\net8.0\Service.deps.json
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\Service\bin\Debug\net8.0\Service.runtimeconfig.json
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\Service\bin\Debug\net8.0\Service.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\Service\bin\Debug\net8.0\Service.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\Service\bin\Debug\net8.0\BusinessObjects.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\Service\bin\Debug\net8.0\DataAccessLayer.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\Service\bin\Debug\net8.0\Repositories.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\Service\bin\Debug\net8.0\BusinessObjects.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\Service\bin\Debug\net8.0\DataAccessLayer.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\Service\bin\Debug\net8.0\Repositories.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\Service\obj\Debug\net8.0\Service.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\Service\obj\Debug\net8.0\refint\Service.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\Service\obj\Debug\net8.0\Service.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\Service\obj\Debug\net8.0\Service.genruntimeconfig.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\Service\obj\Debug\net8.0\ref\Service.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\Service\bin\Debug\net8.0\AppSettings.json
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\Service\bin\Debug\net8.0\Service.deps.json
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\Service\bin\Debug\net8.0\Service.runtimeconfig.json
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\Service\bin\Debug\net8.0\Service.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\Service\bin\Debug\net8.0\Service.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\Service\bin\Debug\net8.0\BusinessObjects.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\Service\bin\Debug\net8.0\DataAccessLayer.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\Service\bin\Debug\net8.0\Repositories.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\Service\bin\Debug\net8.0\BusinessObjects.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\Service\bin\Debug\net8.0\DataAccessLayer.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\Service\bin\Debug\net8.0\Repositories.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\Service\obj\Debug\net8.0\Service.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\Service\obj\Debug\net8.0\refint\Service.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\Service\obj\Debug\net8.0\Service.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\Service\obj\Debug\net8.0\Service.genruntimeconfig.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\Service\obj\Debug\net8.0\ref\Service.dll

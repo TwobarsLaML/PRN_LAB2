@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C09EBC1-1A82-4E8B-A5B0-E54E857CEB0F}|BusinessObjects\\BusinessObjects.csproj|f:\\twobars\\eng\\programming\\c#\\prn212_lab2_hoangtvhe189011\\businessobjects\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C09EBC1-1A82-4E8B-A5B0-E54E857CEB0F}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A2BE4D-FB9D-4930-BB8D-5EB77DEC47B9}|Service\\Service.csproj|f:\\twobars\\eng\\programming\\c#\\prn212_lab2_hoangtvhe189011\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A2BE4D-FB9D-4930-BB8D-5EB77DEC47B9}|Service\\Service.csproj|solutionrelative:service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5A047C-3AF5-4544-B054-6D4EACB6678A}|WPFApp\\WPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\prn212_lab2_hoangtvhe189011\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5A047C-3AF5-4544-B054-6D4EACB6678A}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5A047C-3AF5-4544-B054-6D4EACB6678A}|WPFApp\\WPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\prn212_lab2_hoangtvhe189011\\wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5A047C-3AF5-4544-B054-6D4EACB6678A}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A2BE4D-FB9D-4930-BB8D-5EB77DEC47B9}|Service\\Service.csproj|f:\\twobars\\eng\\programming\\c#\\prn212_lab2_hoangtvhe189011\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A2BE4D-FB9D-4930-BB8D-5EB77DEC47B9}|Service\\Service.csproj|solutionrelative:service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A2BE4D-FB9D-4930-BB8D-5EB77DEC47B9}|Service\\Service.csproj|f:\\twobars\\eng\\programming\\c#\\prn212_lab2_hoangtvhe189011\\service\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A2BE4D-FB9D-4930-BB8D-5EB77DEC47B9}|Service\\Service.csproj|solutionrelative:service\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A2BE4D-FB9D-4930-BB8D-5EB77DEC47B9}|Service\\Service.csproj|f:\\twobars\\eng\\programming\\c#\\prn212_lab2_hoangtvhe189011\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A2BE4D-FB9D-4930-BB8D-5EB77DEC47B9}|Service\\Service.csproj|solutionrelative:service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A2BE4D-FB9D-4930-BB8D-5EB77DEC47B9}|Service\\Service.csproj|f:\\twobars\\eng\\programming\\c#\\prn212_lab2_hoangtvhe189011\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A2BE4D-FB9D-4930-BB8D-5EB77DEC47B9}|Service\\Service.csproj|solutionrelative:service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AECFE3A-7A94-438E-A274-74CDBFFCEA5B}|Repositories\\Repositories.csproj|f:\\twobars\\eng\\programming\\c#\\prn212_lab2_hoangtvhe189011\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AECFE3A-7A94-438E-A274-74CDBFFCEA5B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AECFE3A-7A94-438E-A274-74CDBFFCEA5B}|Repositories\\Repositories.csproj|f:\\twobars\\eng\\programming\\c#\\prn212_lab2_hoangtvhe189011\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AECFE3A-7A94-438E-A274-74CDBFFCEA5B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AECFE3A-7A94-438E-A274-74CDBFFCEA5B}|Repositories\\Repositories.csproj|f:\\twobars\\eng\\programming\\c#\\prn212_lab2_hoangtvhe189011\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AECFE3A-7A94-438E-A274-74CDBFFCEA5B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AECFE3A-7A94-438E-A274-74CDBFFCEA5B}|Repositories\\Repositories.csproj|f:\\twobars\\eng\\programming\\c#\\prn212_lab2_hoangtvhe189011\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AECFE3A-7A94-438E-A274-74CDBFFCEA5B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AECFE3A-7A94-438E-A274-74CDBFFCEA5B}|Repositories\\Repositories.csproj|f:\\twobars\\eng\\programming\\c#\\prn212_lab2_hoangtvhe189011\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AECFE3A-7A94-438E-A274-74CDBFFCEA5B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AECFE3A-7A94-438E-A274-74CDBFFCEA5B}|Repositories\\Repositories.csproj|f:\\twobars\\eng\\programming\\c#\\prn212_lab2_hoangtvhe189011\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AECFE3A-7A94-438E-A274-74CDBFFCEA5B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8658574F-9679-4ABE-B0D3-FB3924CC3ACF}|DataAccessLayer\\DataAccessLayer.csproj|f:\\twobars\\eng\\programming\\c#\\prn212_lab2_hoangtvhe189011\\dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8658574F-9679-4ABE-B0D3-FB3924CC3ACF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8658574F-9679-4ABE-B0D3-FB3924CC3ACF}|DataAccessLayer\\DataAccessLayer.csproj|f:\\twobars\\eng\\programming\\c#\\prn212_lab2_hoangtvhe189011\\dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8658574F-9679-4ABE-B0D3-FB3924CC3ACF}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5A047C-3AF5-4544-B054-6D4EACB6678A}|WPFApp\\WPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\prn212_lab2_hoangtvhe189011\\wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E5A047C-3AF5-4544-B054-6D4EACB6678A}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5A047C-3AF5-4544-B054-6D4EACB6678A}|WPFApp\\WPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\prn212_lab2_hoangtvhe189011\\wpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5A047C-3AF5-4544-B054-6D4EACB6678A}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5A047C-3AF5-4544-B054-6D4EACB6678A}|WPFApp\\WPFApp.csproj|f:\\twobars\\eng\\programming\\c#\\prn212_lab2_hoangtvhe189011\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E5A047C-3AF5-4544-B054-6D4EACB6678A}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Service\\ProductService.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\Service\\ProductService.cs",
+              "RelativeToolTip": "Service\\ProductService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:15:06.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Service\\CategoryService.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\Service\\CategoryService.cs",
+              "RelativeToolTip": "Service\\CategoryService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:14:54.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\Service\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Service\\IAccountService.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\Service\\IAccountService.cs",
+              "RelativeToolTip": "Service\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:14:45.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\Service\\IProductService.cs",
+              "RelativeDocumentMoniker": "Service\\IProductService.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\Service\\IProductService.cs",
+              "RelativeToolTip": "Service\\IProductService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:14:31.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\Service\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Service\\ICategoryService.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\Service\\ICategoryService.cs",
+              "RelativeToolTip": "Service\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:14:26.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:03:00.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:02:52.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAccountRepository.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "Repositories\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:02:34.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountRepository.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Repositories\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:01:45.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:01:30.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICategoryRepository.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:00:49.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\DataAccessLayer\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AccountDAO.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\DataAccessLayer\\AccountDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\AccountDAO.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBAAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:54:45.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CategoryDAO.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CategoryDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:31:40.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyStoreContext.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\BusinessObjects\\MyStoreContext.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\MyStoreContext.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\BusinessObjects\\MyStoreContext.cs",
+              "RelativeToolTip": "BusinessObjects\\MyStoreContext.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:17:26.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\WPFApp\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\LoginWindow.xaml.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\WPFApp\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwBgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:27:45.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\WPFApp\\App.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\App.xaml",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\WPFApp\\App.xaml",
+              "RelativeToolTip": "WPFApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T16:57:45.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\WPFApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\App.xaml.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\WPFApp\\App.xaml.cs",
+              "RelativeToolTip": "WPFApp\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:57:43.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\WPFApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\WPFApp\\MainWindow.xaml",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T14:44:23.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFApp\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\TwoBars\\eng\\Programming\\C#\\prn212_lab2_hoangtvHE189011\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAWwKYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:41:55.441Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

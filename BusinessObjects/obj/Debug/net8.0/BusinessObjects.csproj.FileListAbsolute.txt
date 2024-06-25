@@ -1,0 +1,62 @@
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\Desktop\Summer 2024\PRN212\WPF\Lab1_TranDinhTu_wpf\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab1-master\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+F:\TwoBars\eng\Programming\C#\prn212_lab1\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab1\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+F:\TwoBars\eng\Programming\C#\prn212_lab1\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab1\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+F:\TwoBars\eng\Programming\C#\prn212_lab1\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab1\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab1\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab1_hoangtvHE189011\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\BusinessObjects\bin\Debug\net8.0\AppSettings.json
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\BusinessObjects\bin\Debug\net8.0\BusinessObjects.runtimeconfig.json
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.AssemblyReference.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\BusinessObjects\obj\Debug\net8.0\BusinessObjects.genruntimeconfig.cache
+F:\TwoBars\eng\Programming\C#\prn212_lab2_hoangtvHE189011\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
